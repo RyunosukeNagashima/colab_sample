@@ -1,0 +1,108 @@
+item {
+ id: 1
+ name: 'wash_cannot'
+}
+item {
+ id: 2
+ name: 'wash_max30'
+}
+item {
+ id: 3
+ name: 'wash_max40_week'
+}
+item {
+ id: 4
+ name: 'wash_max40_hand'
+}
+item {
+ id: 5
+ name: 'bleaching_cannnot'
+}
+item {
+ id: 6
+ name: 'bleaching_oxy_only'
+}
+item {
+ id: 7
+ name: 'dry_cannot'
+}
+item {
+ id: 8
+ name: 'dry_max60'
+}
+item {
+ id: 9
+ name: 'ndry_fishing'
+}
+item {
+ id: 10
+ name: 'ndry_fishing_shade'
+}
+item {
+ id: 11
+ name: 'iron_cannnot'
+}
+item {
+ id: 12
+ name: 'iron_low'
+}
+item {
+ id: 13
+ name: 'iron_medium'
+}
+item {
+ id: 14
+ name: 'dry_cleaning_cannot'
+}
+item {
+ id: 15
+ name: 'dry_cleaning_p_week'
+}
+item {
+ id: 16
+ name: 'dry_cleaning_p'
+}
+item {
+ id: 17
+ name: 'dry_cleaning_f_week'
+}
+item {
+ id: 18
+ name: 'dry_cleaning_f'
+}
+item {
+ id: 19
+ name: 'wet_cleaning_cannot'
+}
+item {
+ id: 20
+ name: 'wet_cleaning_week'
+}
+item {
+ id: 21
+ name: 'wet_cleaning_2week'
+}
+item {
+ id: 22
+ name: 'j_wash_cannot'
+}
+item {
+ id: 23
+ name: 'j_bleaching_cannot'
+}
+item {
+ id: 24
+ name: 'j_iron_low_patchcloth'
+}
+item {
+ id: 25
+ name: 'j_iron_medium_patchcloth'
+}
+item {
+ id: 26
+ name: 'j_dry_cleaning'
+}
+item {
+ id: 27
+ name: 'j_dry_cleaning_f'
+}
